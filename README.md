@@ -1,2 +1,2 @@
 # PHP_MVC
-MVC Tutorial for beginners to ~
+MVC, object oriented programming Tutorial for beginners to ~
