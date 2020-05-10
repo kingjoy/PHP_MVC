@@ -9,7 +9,7 @@
 		require_once("includes/person.inc.php");
 
 
-			$pet = new Pet();
+			$pet = new person();
 
 			echo $pet->owner();
 		?>

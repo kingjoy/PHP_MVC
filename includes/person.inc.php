@@ -7,6 +7,12 @@ class Person {
 	private $last = "Joy";
 	private $age = 28;
 
+	public function owner() {
+		$a = $this->first;
+		return $a;
+
+	}
+
 }
 
 class Pet {
