@@ -5,11 +5,10 @@
 		<title>Title</title>
 	</head>
 	<body>
-
 		<?php
 			$pet = new Pet();
 
-			echo $pet01->owner();
+			echo $pet->owner();
 		?>
 	</body>
 </html>
