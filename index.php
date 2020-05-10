@@ -6,6 +6,9 @@
 	</head>
 	<body>
 		<?php
+		require_once("includes/person.inc.php");
+
+
 			$pet = new Pet();
 
 			echo $pet->owner();
